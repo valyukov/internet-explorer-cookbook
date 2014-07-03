@@ -1,2 +1,8 @@
+AllCops:
+  Exclude:
+    - vendor/**
+
+Encoding:
+  Enabled: false
 LineLength:
-  Max: 148
+  Enabled: false
