@@ -1,4 +1,3 @@
-# encoding: utf-8
 include_recipe 'windows'
 
 zones_template = 'HKU\%s\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones'

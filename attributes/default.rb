@@ -1,4 +1,3 @@
-# encoding: utf-8
 default[:ie][:version] = 8
 default[:ie][:installer][:args] = '/quiet /norestart'
 

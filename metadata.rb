@@ -1,4 +1,3 @@
-# encoding: utf-8
 name 'internet-explorer'
 maintainer 'Vlad Alyukov'
 maintainer_email 'v.alyukov@gmail.com'

@@ -1,4 +1,3 @@
-# encoding: utf-8
 include_recipe 'windows'
 
 registry_key 'HKLM\Software\Policies\Microsoft\Internet Explorer\Main' do

@@ -1,6 +1,5 @@
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
-# encoding: utf-8
 
 Vagrant.configure("2") do |config|
   config.vm.hostname = "internet-explorer"
