@@ -1,8 +1,8 @@
 [![Build Status](https://travis-ci.org/valyukov/valyukov/internet-explorer-cookbook.svg?branch=master)](https://travis-ci.org/valyukov/internet-explorer-cookbook)
 
-internet-explorer Cookbook
+internet-explorer cookbook
 ==========================
-Setup internet explorer on windows box 
+Setup internet explorer on windows
 
 
 Requirements
