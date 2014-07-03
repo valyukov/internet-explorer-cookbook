@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/valyukov/valyukov/internet-explorer-cookbook.svg?branch=master)](https://travis-ci.org/valyukov/internet-explorer-cookbook)
+[![Build Status](https://travis-ci.org/valyukov/internet-explorer-cookbook.svg?branch=master)](https://travis-ci.org/valyukov/internet-explorer-cookbook)
 
 internet-explorer cookbook
 ==========================
