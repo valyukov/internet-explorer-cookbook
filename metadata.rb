@@ -1,10 +1,11 @@
+# encoding: utf-8
 name 'internet-explorer'
 maintainer 'Vlad Alyukov'
-maintainer_email 'v.alyukov@corp.mail.ru'
-license 'Apache 2.0'
-description 'Installs internet-explorer'
+maintainer_email 'v.alyukov@gmail.com'
+license 'MIT'
+description 'Installs and configure internet-explorer'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
-version '0.4.1'
+version '0.4.2'
 
 supports 'windows'
 

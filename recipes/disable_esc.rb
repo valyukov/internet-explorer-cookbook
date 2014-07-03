@@ -1,4 +1,4 @@
-
+# encoding: utf-8
 include_recipe 'windows'
 
 reboot = 'windows_reboot[30]'

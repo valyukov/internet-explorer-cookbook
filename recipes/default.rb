@@ -1,3 +1,4 @@
+# encoding: utf-8
 include_recipe 'windows'
 
 ::Chef::Recipe.send(:include, Chef::Mixin::PowershellOut)
